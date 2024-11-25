@@ -6,3 +6,4 @@ https://altaykrts.netlify.app
 I followed this tutorial on youtube https://www.youtube.com/watch?v=YQCDUJ6hhNY and made some changes of my own.
 
 
+<img src="PortfolioGithub/assets/about/aboutImage.png" alt="About Image" width="400"/>
