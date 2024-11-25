@@ -1,0 +1,30 @@
+[
+    {
+      "title": "PYTHON",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "JAVA",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "SWIFT UI",
+      "imageSrc": "skills/swiftui1.png"
+    },
+    {
+      "title": "FLUTTER",
+      "imageSrc": "skills/flutters.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql1.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    }
+  ]

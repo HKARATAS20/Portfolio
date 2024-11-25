@@ -1,0 +1,33 @@
+[
+    {
+      "role": "Software Development Intern",
+      "organisation": "Yapıkredi Teknoloji",
+      "startDate": "Feb, 2024",
+      "endDate": "June 2024",
+      "experiences": ["Gained experience in software development methodologies and best practices.",
+                      "Developed Java-based services to efficiently manage and manipulate data within database tables."
+                    ],
+      "imageSrc": "history/yapıkredi.png"
+    },
+    {
+      "role": "Software Development Intern",
+      "organisation": "SmartMessage",
+      "startDate": "Aug, 2023",
+      "endDate": "Sep, 2023",
+      "experiences": [" Focused on front-end development using React and Ant Design, enhancing the application's user interface.",
+       "Contributed to a large-scale project, developing skills in project management within complex software ecosystems."],
+      "imageSrc": "history/smartMessage.png"
+    },
+    {
+      "role": "IT and Software Development Intern",
+      "organisation": "KAREL",
+      "startDate": "Aug, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": [
+        "Worked as a part of the headquarters IT team and the Software Development team.",
+        "Prepared a database design project using SQL and Oracle APEX 5 for the Software development team."
+      ],
+      "imageSrc": "history/karel.png"
+    }
+  ]
+  

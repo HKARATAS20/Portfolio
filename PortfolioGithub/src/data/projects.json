@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Immunotracker",
+    "imageSrc": "projects/immunotracker1.png",
+    "description": "A mobile app, offering dosage guidelines, symptom tracking, and medication reminders.",
+    "skills": ["Flutter", "Firebase", "UI/UX Design"],
+    "demo": "https://keremtamirci.github.io/ImmunotherapyApp/",
+    "source": "https://github.com/KeremTamirci/ImmunotherapyApp"
+  },
+  {
+    "title": "Food Diary",
+    "imageSrc": "projects/foodDiary.png",
+    "description": "A restaurant recording app that helps users track their favourite restaurants. ",
+    "skills": ["SwiftUI", "Firebase", "iOS"],
+    "demo": "https://github.com/HKARATAS20/Food-Diary",
+    "source": "https://github.com/HKARATAS20/Food-Diary"
+  }
+
+]
